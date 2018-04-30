@@ -39,7 +39,7 @@ You must give a full effort on every group and individual project.
 ## Important Links And Notes
 
 
-[Slack Room insert link here]
+[MW Slack Channel](https://penncodingapr18.slack.com/messages/G9WTYJNKV)
 
 -----------------------------------------
 
